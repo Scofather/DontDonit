@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Where camera captures are written before they are processed. -->
+    <cache-path name="captures" path="captures/" />
+    <files-path name="inspections" path="inspections/" />
+</paths>

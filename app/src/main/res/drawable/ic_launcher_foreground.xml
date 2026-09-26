@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Prism mark: three concentric rings, one per light pass. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:strokeColor="#5AA9FF"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"
+        android:pathData="M54,30 A24,24 0 1,1 53.9,30" />
+    <path
+        android:strokeColor="#D9A94A"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"
+        android:pathData="M54,40 A14,14 0 1,1 53.9,40" />
+    <path
+        android:fillColor="#A26BFF"
+        android:pathData="M54,48 A6,6 0 1,1 53.9,48 Z" />
+</vector>
